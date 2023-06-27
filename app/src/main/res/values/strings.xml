@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tugas4</string>
+    <string name="empty_list_text"></string>
+    <string name="enter_title">Nama</string>
+    <string name="enter_desc">Deskripsi</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_delete">Delete</string>
+    <string name="add_record">Tambah</string>
+</resources>
